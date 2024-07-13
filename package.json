@@ -2,8 +2,8 @@
   "name": "rao-atm-machine",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "bin": "index.js",
+  "main": "main.js",
+  "bin": "main.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
